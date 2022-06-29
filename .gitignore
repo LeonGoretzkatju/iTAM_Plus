@@ -1,0 +1,9 @@
+cmake-build-debug
+cmake-build-release
+Vocabulary
+build
+Examples/RGB-D/rgbd_tum
+lib
+Track.dat
+.idea
+
